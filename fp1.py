@@ -1,4 +1,4 @@
-
+﻿
 analyze = {}
 
 for word in speech:
@@ -31,3 +31,4 @@ for k, v in flist:
 
     cnt += 1
 
+dddd
